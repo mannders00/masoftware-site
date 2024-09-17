@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'Inconsolata';
+	src: url('/public/Inconsolata-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	font-family: 'Inconsolata', sans-serif;
+	background-color: #000;
+	color: #FFF;
+}
+
+a {
+	color: #61afef;
+}
