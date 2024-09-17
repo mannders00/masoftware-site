@@ -15,6 +15,18 @@ a {
 	color: #61afef;
 }
 
+.bold {
+	font-weight: bold;
+}
+
+.green {
+	color: #98c379;
+}
+
+.magenta {
+	color: #c678dd;
+}
+
 .red {
 	color: #e06c75;
 }
